@@ -1,1 +1,2 @@
 # Hello-world
+I had no experience about Web Design, so I want to study some program related to Web Design and Internet Application Development. After studying in this program, I hope I can design my own web and find some related job about IT.
